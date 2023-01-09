@@ -8,7 +8,7 @@ tags = ["first", "blog"]
 keywords = ["blog", "first"]
 description = "My First Post with the hugo command"
 showFullContent = false
-readingTime = 1 minutes
+readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
