@@ -1,3 +1,16 @@
 baseURL = 'https://gzod01.github.io/blog/'
 languageCode = 'fr-fr'
-title = 'GZod01'
+title = 'GZod01 Blog'
+theme = 'terminal'
+[params]
+	author = 'GZod01'
+	description = 'the GZod01 Blog'
+	[[params.social]]
+		icon='github'
+		name='Github'
+		url='https://github.com/gzod01'
+	[[params.social]]
+		icon='discord'
+		name='Discord'
+		url='discord.com/users/690103250636243068'
+

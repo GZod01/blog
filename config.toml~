@@ -1,0 +1,5 @@
+baseURL = 'https://gzod01.github.io/blog/'
+languageCode = 'fr-fr'
+title = 'GZod01 Blog'
+theme = 'terminal'
+author = 'GZod01'
