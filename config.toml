@@ -3,14 +3,51 @@ languageCode = 'fr-fr'
 title = 'GZod01 Blog'
 theme = 'terminal'
 [params]
+	contentTypeName = "posts"
+	themeColor = "green"
+	showMenuItems = 2
+	showLanguageSelector = false
+	fullWidthTheme = false
+	centerTheme = false
+	autoCover = true
+	showLastUpdated = true
+	favicon = "favicon.ico"
+	updatedDatePrefix = "Updated"
+	oneHeadingSize = true
+	readingTime = false
+	Toc = false
+	TocTitle = "Table of Contents"
 	author = 'GZod01'
 	description = 'the GZod01 Blog'
-	[[params.social]]
-		icon='github'
-		name='Github'
-		url='https://github.com/gzod01'
-	[[params.social]]
-		icon='discord'
-		name='Discord'
-		url='discord.com/users/690103250636243068'
+[params.twitter]
+	creator = ""
+	site = ""
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    title = "Blog de GZod01"
+    subtitle = "Le blog de GZod01"
+    owner = "GZod01"
+    keywords = ""
+    copyright = ""
+    menuMore = "Afficher Plus"
+    readMore = "Lire Plus"
+    readOtherPosts = "Lire d'autres articles"
+    newerPosts = "Article le plus recent"
+    olderPosts = "Article le plus ancien"
+    missingContentMessage = "Page introuvable..."
+    missingBackButtonLabel = "Retourner à la page d'accueil"
 
+    [languages.en.params.logo]
+      logoText = "GZod01"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "à propos"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Vitrine"
+        url = "/showcase"

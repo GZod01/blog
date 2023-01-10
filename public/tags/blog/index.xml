@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on GZod01 Blog</title>
+    <link>https://gzod01.github.io/blog/tags/blog/</link>
+    <description>Recent content in blog on GZod01 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 Jan 2023 20:40:56 +0100</lastBuildDate><atom:link href="https://gzod01.github.io/blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://gzod01.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Mon, 09 Jan 2023 20:40:56 +0100</pubDate>
+      
+      <guid>https://gzod01.github.io/blog/posts/my-first-post/</guid>
+      <description>This is my first post hello there General Kenobi XD GZod01</description>
+      <content>&lt;p&gt;This is my first post hello there
+General Kenobi
+XD
+GZod01&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
